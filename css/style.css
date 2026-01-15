@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    color: #636363;
+    background: #e9fac2;
+}
+
+.custom-border {
+    border-radius: 10px;
+    border-color: #dbc594;
+}
+
+.card {
+    background-color: #dce7d8;
+    min-width: 315px;
+    max-width: 800px;
+}
+
+.med-img {
+    width: 250px; 
+    height: auto;
+}
